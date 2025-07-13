@@ -35,5 +35,7 @@ Access the live app here:
 5.Use the dashboard to monitor when warranties expire.
 
 **🙋‍♀️ About the Author**
+
 Built by Vedururi Sreenivasulu.
+
 Connect on GitHub or LinkedIn: vedururisreenivasulu
